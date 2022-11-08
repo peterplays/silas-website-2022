@@ -1,3 +1,15 @@
 section {
     background-color: bisque;
+    /* background-image:  /domains/peterward.dev/Assets/Silas/naruto-background.png; */
+
 }
+
+body {
+    /* background-image: url('https://peterward.dev/Assets/Silas/naruto-background.png'); */
+    background-image: url('/Assets/naruto-background.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: grey;
+}
+
